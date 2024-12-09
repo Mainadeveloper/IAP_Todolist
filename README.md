@@ -1,1 +1,3 @@
 # IAP_Todolist
+I created a simple TODO list application using HTML, CSS, and JavaScript. The application allows users to add tasks to a list by typing into an input field and clicking a button. I implemented functionality to disable the button by default and enable it only when a valid task is entered. Upon submitting a task, it is dynamically added to an unordered list on the page without refreshing, using the createElement and append functions to manipulate the DOM. This project showcases my skills in event handling, form validation, and DOM manipulation while creating an interactive user experience.
+file:///C:/Users/maina/OneDrive/Desktop/TodolistMaina/index.html -this is the link to my localhost 
